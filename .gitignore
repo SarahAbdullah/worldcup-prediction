@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+venv/
+worldcup-prediction-env/
+__pycache__/
+.DS_Store
